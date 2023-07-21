@@ -1,4 +1,5 @@
 # 💫 About Me:
+👨‍💻 I'm a Data Analyst
 🌱 I’m currently learning Python
 
 
