@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a Data Analyst
+👨‍💻 I'm a Data Analyst <br>
 🌱 I’m currently learning Python
 
 
@@ -13,4 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL Server" alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="Oracle SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="Postgresql " width="40" height="40"/>
-</div>
+</div><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiAlimb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
